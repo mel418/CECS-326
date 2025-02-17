@@ -1,4 +1,4 @@
 This is the content of the input file.
-It containst some text that we want to copy.
+It contains some text that we want to copy.
 
-hello
+hello, my hero acadamea sucks
